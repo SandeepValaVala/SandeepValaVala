@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm VALAVALA NAGA SAI SANDEEP</h1>
 <h3 align="center">I'm a passionate full stack web developer with expertise in Python, JavaScript, HTML, CSS, React, and Node.js. I enjoy building scalable web applications and crafting user-friendly interfaces.</h3>
